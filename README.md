@@ -1,4 +1,4 @@
-# README #
+# Nexudus API - Netlify Serverless Function #
 
 ## Setup ##
 
